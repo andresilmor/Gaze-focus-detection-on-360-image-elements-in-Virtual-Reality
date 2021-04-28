@@ -1,0 +1,20 @@
+{
+"objectsData": [
+{
+    "name": "Vinho",
+    "focusTimes": 1,
+    "focusSeconds": 6.23
+}, {
+    "name": "Panela",
+    "focusTimes": 1,
+    "focusSeconds": 0.8
+}, {
+    "name": "Comida",
+    "focusTimes": 0,
+    "focusSeconds": 0.0
+}, {
+    "name": "Pia",
+    "focusTimes": 0,
+    "focusSeconds": 0.0
+}]
+}
